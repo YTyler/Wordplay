@@ -1,0 +1,12 @@
+.centerthepage{
+  text-align: center;
+  margin: 35%;
+}
+h4 {
+  text-decoration: underline;
+}
+body{
+color: #7B22D7 ;
+background: radial-gradient( white, pink, red, black);
+background-attachment: fixed;
+}
